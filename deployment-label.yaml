@@ -4,7 +4,6 @@ metadata:
   name: hello-world
   labels:
     app: hello-world
-  namespace: playground1
 spec:
   replicas: 4
   selector:
